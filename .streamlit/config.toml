@@ -3,4 +3,3 @@ primaryColor = "#4dc6ff"          # A bright cyan-blue accent
 backgroundColor = "#121212"       # Dark background
 secondaryBackgroundColor = "#1e1e1e"  # Slightly lighter for cards or containers
 textColor = "#ffffff"             # Pure white text
-font = "sans serif"
